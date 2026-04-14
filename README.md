@@ -23,3 +23,11 @@ Bhuneshwari G S
 
 <h2>Customer Photos</h2>
 <!-- images -->
+body {
+  font-family: Arial;
+  background-color: #fff5f7;
+}
+
+h2 {
+  color: #d63384;
+}
